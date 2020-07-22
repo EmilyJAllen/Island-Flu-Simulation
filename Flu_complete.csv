@@ -1,0 +1,689 @@
+Name,Sex,Age,Activity,days_since_injection,WBC_count,serotonin_level,dopamine_level,weird_dopamine,Age_block
+Annabelle Gonzalez,F,28,Control,3,8.10E+09,224,17.7,1,1
+Chloe Durand,F,33,Control,3,9.30E+09,242,21.5,0,2
+Haruka Lopez,F,32,Control,3,8.80E+09,232,17.6,0,2
+Laurence Gonzalez,F,31,Control,3,8.40E+09,229,17.9,0,2
+Manami Gonzalez,F,29,Control,3,7.50E+09,249,19.6,0,1
+Mayu Durand,F,30,Control,3,5.50E+09,216,19.3,1,2
+Megane Steiner,F,32,Control,3,7.30E+09,215,24.1,1,2
+Mitsuki Lopez,F,28,Control,3,8.20E+09,231,20,1,1
+Nanako Durand,F,27,Control,3,7.10E+09,216,19.4,1,1
+Paz Lopez,F,27,Control,3,8.70E+09,206,21.9,1,1
+Tine Summers,F,39,Control,3,8.00E+09,221,18.2,1,2
+Abby Durand,F,36,Dog,3,8.30E+09,239,15.6,0,2
+Ciara Kennedy,F,22,Dog,3,5.60E+09,178,18.8,0,1
+Daiki Gonzalez,F,28,Dog,3,6.90E+09,234,20.3,0,1
+Emma Durand,F,39,Dog,3,5.50E+09,252,15.2,0,2
+Grace Carrasco,F,26,Dog,3,7.10E+09,231,18.3,0,1
+Haruka McCarthy,F,29,Dog,3,7.50E+09,206,20.5,0,1
+Hina Rodriguez,F,28,Dog,3,9.50E+09,210,21.1,0,1
+Julia Lopez,F,32,Dog,3,8.30E+09,246,22.3,1,2
+Klara Carrasco,F,26,Dog,3,6.60E+09,234,23.6,1,1
+Mizuki Durand,F,23,Dog,3,7.40E+09,205,21.3,1,1
+Rosalie Steiner,F,32,Dog,3,5.40E+09,201,24.6,1,2
+Sophia Durand,F,25,Dog,3,8.40E+09,261,21.2,1,1
+Annabelle Gonzalez,F,28,Control,4,8.20E+09,231,17.2,0,1
+Chloe Durand,F,33,Control,4,9.30E+09,243,21,0,2
+Haruka Lopez,F,32,Control,4,9.90E+09,236,18.2,0,2
+Laurence Gonzalez,F,31,Control,4,7.40E+09,233,17.3,0,2
+Manami Gonzalez,F,29,Control,4,7.50E+09,246,20.5,0,1
+Mayu Durand,F,30,Control,4,5.60E+09,231,18.8,0,2
+Megane Steiner,F,32,Control,4,7.50E+09,208,24.4,0,2
+Mitsuki Lopez,F,28,Control,4,8.30E+09,238,19.5,0,1
+Nanako Durand,F,27,Control,4,7.20E+09,207,20,0,1
+Paz Lopez,F,27,Control,4,8.40E+09,266,21.1,0,1
+Tine Summers,F,39,Control,4,7.40E+09,218,18.3,0,2
+Abby Durand,F,36,Dog,4,8.80E+09,242,15.2,0,2
+Ciara Kennedy,F,22,Dog,4,5.30E+09,178,18.1,0,1
+Daiki Gonzalez,F,28,Dog,4,6.50E+09,244,20.8,0,1
+Emma Durand,F,39,Dog,4,5.60E+09,253,15.8,0,2
+Grace Carrasco,F,26,Dog,4,6.80E+09,226,17.9,0,1
+Haruka McCarthy,F,29,Dog,4,7.40E+09,214,20.3,0,1
+Hina Rodriguez,F,28,Dog,4,1.00E+10,214,21.1,0,1
+Julia Lopez,F,32,Dog,4,7.80E+09,233,21.8,0,2
+Klara Carrasco,F,26,Dog,4,6.10E+09,233,22.9,0,1
+Mizuki Durand,F,23,Dog,4,6.70E+09,199,21.4,0,1
+Rosalie Steiner,F,32,Dog,4,5.70E+09,186,24.8,0,2
+Sophia Durand,F,25,Dog,4,8.80E+09,263,21.8,0,1
+Annabelle Gonzalez,F,28,Control,5,8.00E+09,233,17.4,0,1
+Chloe Durand,F,33,Control,5,9.60E+09,244,21,0,2
+Haruka Lopez,F,32,Control,5,9.10E+09,231,18.2,0,2
+Laurence Gonzalez,F,31,Control,5,8.50E+09,227,18.3,0,2
+Manami Gonzalez,F,29,Control,5,7.60E+09,250,NA,1,1
+Mayu Durand,F,30,Control,5,4.90E+09,235,18.9,0,2
+Megane Steiner,F,32,Control,5,7.00E+09,210,23.4,0,2
+Mitsuki Lopez,F,28,Control,5,8.40E+09,233,18.8,0,1
+Nanako Durand,F,27,Control,5,7.30E+09,210,19,0,1
+Paz Lopez,F,27,Control,5,8.80E+09,272,21.9,0,1
+Tine Summers,F,39,Control,5,7.80E+09,222,18.3,0,2
+Abby Durand,F,36,Dog,5,8.40E+09,244,15.9,0,2
+Ciara Kennedy,F,22,Dog,5,5.80E+09,186,17.6,0,1
+Daiki Gonzalez,F,28,Dog,5,6.90E+09,230,20.7,0,1
+Emma Durand,F,39,Dog,5,6.00E+09,251,15.3,0,2
+Grace Carrasco,F,26,Dog,5,7.40E+09,231,18.4,0,1
+Haruka McCarthy,F,29,Dog,5,6.50E+09,210,20.4,0,1
+Hina Rodriguez,F,28,Dog,5,9.20E+09,210,20.7,0,1
+Julia Lopez,F,32,Dog,5,7.70E+09,233,21.7,0,2
+Klara Carrasco,F,26,Dog,5,6.40E+09,235,23.4,0,1
+Mizuki Durand,F,23,Dog,5,6.60E+09,206,22.8,0,1
+Rosalie Steiner,F,32,Dog,5,5.30E+09,193,25.3,0,2
+Sophia Durand,F,25,Dog,5,8.30E+09,257,21.2,0,1
+Annabelle Gonzalez,F,28,Control,6,8.20E+09,228,NA,1,1
+Chloe Durand,F,33,Control,6,9.80E+09,242,20.4,0,2
+Haruka Lopez,F,32,Control,6,8.90E+09,241,18.1,0,2
+Laurence Gonzalez,F,31,Control,6,7.70E+09,237,18.2,0,2
+Manami Gonzalez,F,29,Control,6,7.40E+09,250,19.9,0,1
+Mayu Durand,F,30,Control,6,5.40E+09,220,NA,1,2
+Megane Steiner,F,32,Control,6,7.50E+09,213,23.3,0,2
+Mitsuki Lopez,F,28,Control,6,8.30E+09,229,19.3,0,1
+Nanako Durand,F,27,Control,6,6.90E+09,203,19.4,0,1
+Paz Lopez,F,27,Control,6,8.40E+09,272,22,0,1
+Tine Summers,F,39,Control,6,7.70E+09,227,18.1,0,2
+Abby Durand,F,36,Dog,6,8.00E+09,245,15.4,0,2
+Ciara Kennedy,F,22,Dog,6,5.50E+09,179,18.5,0,1
+Daiki Gonzalez,F,28,Dog,6,6.80E+09,231,20.3,0,1
+Emma Durand,F,39,Dog,6,5.10E+09,251,16,0,2
+Grace Carrasco,F,26,Dog,6,6.80E+09,242,18.5,0,1
+Haruka McCarthy,F,29,Dog,6,6.30E+09,212,20.1,0,1
+Hina Rodriguez,F,28,Dog,6,9.40E+09,213,20.4,0,1
+Julia Lopez,F,32,Dog,6,8.80E+09,238,22.4,0,2
+Klara Carrasco,F,26,Dog,6,6.40E+09,232,22.8,0,1
+Mizuki Durand,F,23,Dog,6,7.10E+09,197,21.2,0,1
+Rosalie Steiner,F,32,Dog,6,5.40E+09,194,25.4,0,2
+Sophia Durand,F,25,Dog,6,8.90E+09,258,21.7,0,1
+Chelsea Durand,F,24,Dog,3,5.90E+09,272,21,1,1
+Rosalie Novak,F,37,Dog,3,7.80E+09,221,22.4,1,2
+Ciara Lopez,F,35,Dog,3,8.50E+09,220,20.6,1,2
+Rina Durand,F,23,Dog,3,7.00E+09,206,22.5,1,1
+Abigail Carrasco,F,25,Memory,3,6.70E+09,228,19.8,0,1
+Sakura Kennedy,F,21,Memory,3,8.10E+09,242,17.4,0,1
+Selina Kennedy,F,29,Memory,3,7.20E+09,250,20.6,0,1
+Genesis Kennedy,F,23,Memory,3,6.70E+09,252,19.3,0,1
+Kana Durand,F,32,Memory,3,7.20E+09,244,22.6,0,2
+Momoko Carrasco,F,31,Memory,3,8.00E+09,252,16.7,0,2
+Josefa Durand,F,20,Memory,3,8.20E+09,239,20.3,0,1
+Hannah Durand,F,39,Memory,3,6.40E+09,234,18.7,0,2
+Allana Carrasco,F,36,Memory,3,8.80E+09,210,18.1,0,2
+Chloe Simon,F,30,Memory,3,8.10E+09,190,22.1,0,2
+Natalia Durand,F,26,Memory,3,5.00E+09,196,22,1,1
+Reina Durand,F,24,Memory,3,9.70E+09,247,20.7,1,1
+Sakura Durand,F,36,Memory,3,8.00E+09,244,18.1,1,2
+Nina Takahashi,F,22,Memory,3,6.20E+09,194,20.4,1,1
+Ai Carrasco,F,33,Memory,3,8.10E+09,192,19.5,1,2
+Manami Carrasco,F,22,Memory,3,8.50E+09,210,19.3,0,1
+Chelsea Durand,F,24,Dog,4,5.70E+09,266,21.1,0,1
+Rosalie Novak,F,37,Dog,4,7.70E+09,221,22.5,0,2
+Ciara Lopez,F,35,Dog,4,8.30E+09,223,20.3,0,2
+Rina Durand,F,23,Dog,4,7.10E+09,227,22.1,0,1
+Abigail Carrasco,F,25,Memory,4,6.60E+09,227,19.6,0,1
+Sakura Kennedy,F,21,Memory,4,8.20E+09,234,17.3,0,1
+Selina Kennedy,F,29,Memory,4,7.00E+09,252,20.2,0,1
+Genesis Kennedy,F,23,Memory,4,6.70E+09,257,18.8,0,1
+Kana Durand,F,32,Memory,4,7.10E+09,222,22.8,0,2
+Momoko Carrasco,F,31,Memory,4,7.90E+09,261,16.9,0,2
+Josefa Durand,F,20,Memory,4,8.10E+09,237,20.2,0,1
+Hannah Durand,F,39,Memory,4,6.20E+09,236,18.2,0,2
+Allana Carrasco,F,36,Memory,4,8.60E+09,207,18.2,0,2
+Chloe Simon,F,30,Memory,4,7.50E+09,188,21.7,0,2
+Natalia Durand,F,26,Memory,4,4.80E+09,197,21.4,0,1
+Reina Durand,F,24,Memory,4,1.01E+10,249,20.9,0,1
+Sakura Durand,F,36,Memory,4,8.00E+09,239,17.2,0,2
+Nina Takahashi,F,22,Memory,4,6.00E+09,200,20.4,0,1
+Ai Carrasco,F,33,Memory,4,8.70E+09,190,19.4,0,2
+Manami Carrasco,F,22,Memory,4,8.10E+09,209,19.7,0,1
+Chelsea Durand,F,24,Dog,5,5.80E+09,264,20.9,0,1
+Rosalie Novak,F,37,Dog,5,8.20E+09,228,22.3,0,2
+Ciara Lopez,F,35,Dog,5,8.50E+09,230,20.6,0,2
+Rina Durand,F,23,Dog,5,7.20E+09,222,22.1,0,1
+Abigail Carrasco,F,25,Memory,5,5.90E+09,223,20.2,0,1
+Sakura Kennedy,F,21,Memory,5,8.80E+09,247,17.5,0,1
+Selina Kennedy,F,29,Memory,5,6.40E+09,254,20.4,0,1
+Genesis Kennedy,F,23,Memory,5,7.40E+09,246,19.2,0,1
+Kana Durand,F,32,Memory,5,7.10E+09,235,22.7,0,2
+Momoko Carrasco,F,31,Memory,5,7.20E+09,256,16.9,0,2
+Josefa Durand,F,20,Memory,5,8.10E+09,245,20.5,0,1
+Hannah Durand,F,39,Memory,5,6.60E+09,231,17.3,0,2
+Allana Carrasco,F,36,Memory,5,8.70E+09,215,18.7,0,2
+Chloe Simon,F,30,Memory,5,8.00E+09,182,21.3,0,2
+Natalia Durand,F,26,Memory,5,4.30E+09,188,21,0,1
+Reina Durand,F,24,Memory,5,9.70E+09,251,21.1,0,1
+Sakura Durand,F,36,Memory,5,7.70E+09,233,18.1,0,2
+Nina Takahashi,F,22,Memory,5,6.00E+09,195,20.4,0,1
+Ai Carrasco,F,33,Memory,5,8.80E+09,195,19.2,0,2
+Manami Carrasco,F,22,Memory,5,8.40E+09,213,19.5,0,1
+Chelsea Durand,F,24,Dog,6,5.50E+09,269,21.5,0,1
+Rosalie Novak,F,37,Dog,6,7.70E+09,212,22.4,0,2
+Ciara Lopez,F,35,Dog,6,8.90E+09,221,21,0,2
+Rina Durand,F,23,Dog,6,6.70E+09,217,21.7,0,1
+Abigail Carrasco,F,25,Memory,6,6.60E+09,230,20,0,1
+Sakura Kennedy,F,21,Memory,6,8.40E+09,235,17.7,0,1
+Selina Kennedy,F,29,Memory,6,6.40E+09,252,19.4,0,1
+Genesis Kennedy,F,23,Memory,6,7.00E+09,247,18.8,0,1
+Kana Durand,F,32,Memory,6,6.90E+09,239,22.1,0,2
+Momoko Carrasco,F,31,Memory,6,7.10E+09,250,16.7,0,2
+Josefa Durand,F,20,Memory,6,7.40E+09,240,20.4,0,1
+Hannah Durand,F,39,Memory,6,6.40E+09,228,18.7,0,2
+Allana Carrasco,F,36,Memory,6,8.60E+09,206,18.5,0,2
+Chloe Simon,F,30,Memory,6,7.80E+09,188,21.6,0,2
+Natalia Durand,F,26,Memory,6,5.10E+09,188,20.6,0,1
+Reina Durand,F,24,Memory,6,9.90E+09,250,21.9,0,1
+Sakura Durand,F,36,Memory,6,8.20E+09,245,17.9,0,2
+Nina Takahashi,F,22,Memory,6,5.50E+09,202,21.1,0,1
+Ai Carrasco,F,33,Memory,6,8.10E+09,186,19.2,0,2
+Manami Carrasco,F,22,Memory,6,8.00E+09,208,19.3,0,1
+Amanda Durand,F,22,Run,3,5.00E+09,196,22.4,0,1
+Ami Carrasco,F,37,Run,3,5.70E+09,225,21.7,0,2
+Asuka Carrasco,F,32,Run,3,8.40E+09,206,16.6,0,2
+Asuka Durand,F,22,Run,3,9.10E+09,203,16.5,0,1
+Daniela Carrasco,F,27,Run,3,7.20E+09,190,19,0,1
+Emily Steiner,F,26,Run,3,7.40E+09,134,18.2,0,1
+Erin Durand,F,30,Run,3,5.80E+09,233,20.1,0,2
+Holly Carrasco,F,27,Run,3,8.50E+09,216,17.6,0,1
+Laura Takahashi,F,26,Run,3,8.40E+09,210,21.8,0,1
+Mai Durand,F,21,Run,3,7.20E+09,264,20.9,0,1
+Mayu McCarthy,F,35,Run,3,7.80E+09,225,14,0,2
+Monserrat Carrasco,F,26,Run,3,6.70E+09,214,16.1,0,1
+Paz Takahashi,F,36,Run,3,9.40E+09,294,18.6,0,2
+Tia Castro,F,26,Run,3,6.60E+09,194,17.6,0,1
+Viktoria Summers,F,35,Run,3,8.30E+09,188,18.8,0,2
+Tjasa Summers,F,38,Control,3,9.40E+09,218,20.6,0,2
+Karin Simon,F,30,Control,3,7.00E+09,203,20.6,0,2
+Sarah McCarthy,F,37,Control,3,6.70E+09,272,21,0,2
+Misaki Lopez,F,23,Control,3,6.60E+09,259,20.8,0,1
+Ella Durand_ black,F,32,Control,3,7.50E+09,189,18.1,0,2
+Amanda Durand,F,22,Run,4,5.10E+09,196,22.4,0,1
+Ami Carrasco,F,37,Run,4,6.50E+09,229,21.1,0,2
+Asuka Carrasco,F,32,Run,4,9.10E+09,211,18,0,2
+Asuka Durand,F,22,Run,4,8.80E+09,206,16.8,0,1
+Daniela Carrasco,F,27,Run,4,7.20E+09,193,18.7,0,1
+Emily Steiner,F,26,Run,4,6.70E+09,152,17.3,0,1
+Erin Durand,F,30,Run,4,5.50E+09,230,20.1,0,2
+Holly Carrasco,F,27,Run,4,9.40E+09,211,17.7,1,1
+Laura Takahashi,F,26,Run,4,8.70E+09,206,21.6,1,1
+Mai Durand,F,21,Run,4,7.90E+09,258,21.2,1,1
+Mayu McCarthy,F,35,Run,4,6.80E+09,225,14.6,1,2
+Monserrat Carrasco,F,26,Run,4,6.70E+09,211,16.8,1,1
+Paz Takahashi,F,36,Run,4,9.50E+09,307,19.2,1,2
+Tia Castro,F,26,Run,4,6.50E+09,194,17.3,1,1
+Viktoria Summers,F,35,Run,4,8.40E+09,187,17.9,1,2
+Ella Durand_ Brown,F,32,Run,3,8.10E+09,226,20.6,1,2
+Tjasa Summers,F,38,Control,4,9.80E+09,229,21.7,0,2
+Karin Simon,F,30,Control,4,6.80E+09,204,20.8,0,2
+Sarah McCarthy,F,37,Control,4,6.80E+09,268,21.8,0,2
+Misaki Lopez,F,23,Control,4,6.60E+09,259,21.1,0,1
+Ella Durand_ black,F,32,Control,4,7.70E+09,189,18.6,0,2
+Amanda Durand,F,22,Run,5,5.70E+09,197,22.1,0,1
+Ami Carrasco,F,37,Run,5,5.90E+09,233,22.5,0,2
+Asuka Carrasco,F,32,Run,5,8.60E+09,211,17.3,0,2
+Asuka Durand,F,22,Run,5,9.00E+09,208,17.4,0,1
+Daniela Carrasco,F,27,Run,5,6.90E+09,179,18.7,0,1
+Emily Steiner,F,26,Run,5,7.20E+09,140,17.3,0,1
+Erin Durand,F,30,Run,5,6.00E+09,238,20,0,2
+Holly Carrasco,F,27,Run,5,9.00E+09,214,18.2,0,1
+Laura Takahashi,F,26,Run,5,9.00E+09,197,21,0,1
+Mai Durand,F,21,Run,5,8.20E+09,266,21,0,1
+Mayu McCarthy,F,35,Run,5,6.60E+09,230,13.7,0,2
+Monserrat Carrasco,F,26,Run,5,7.10E+09,201,15.7,0,1
+Paz Takahashi,F,36,Run,5,9.50E+09,302,19.3,0,2
+Tia Castro,F,26,Run,5,6.60E+09,192,17.9,0,1
+Viktoria Summers,F,35,Run,5,7.70E+09,185,19,0,2
+Ella Durand_ Brown,F,32,Run,5,7.80E+09,227,19.8,0,2
+Tjasa Summers,F,38,Control,5,8.90E+09,227,21.5,0,2
+Karin Simon,F,30,Control,5,7.10E+09,191,19.8,0,2
+Sarah McCarthy,F,37,Control,5,6.50E+09,268,21,0,2
+Misaki Lopez,F,23,Control,5,6.30E+09,260,21.4,0,1
+Ella Durand_ black,F,32,Control,5,8.20E+09,198,18.9,0,2
+Amanda Durand,F,22,Run,6,5.40E+09,200,21.8,0,1
+Ami Carrasco,F,37,Run,6,6.40E+09,227,22.1,0,2
+Asuka Carrasco,F,32,Run,6,7.60E+09,213,16.9,0,2
+Asuka Durand,F,22,Run,6,9.30E+09,216,15.6,0,1
+Daniela Carrasco,F,27,Run,6,6.70E+09,188,19,0,1
+Emily Steiner,F,26,Run,6,7.40E+09,136,17.5,0,1
+Erin Durand,F,30,Run,6,5.10E+09,231,20.5,0,2
+Holly Carrasco,F,27,Run,6,9.10E+09,213,17.7,0,1
+Laura Takahashi,F,26,Run,6,8.80E+09,197,21.4,0,1
+Mai Durand,F,21,Run,6,7.90E+09,261,20.5,0,1
+Mayu McCarthy,F,35,Run,6,4.90E+09,235,18.9,0,2
+Monserrat Carrasco,F,26,Run,6,6.70E+09,204,15.8,0,1
+Paz Takahashi,F,36,Run,6,9.90E+09,305,19.3,0,2
+Tia Castro,F,26,Run,6,6.00E+09,175,17,0,1
+Viktoria Summers,F,35,Run,6,8.30E+09,182,18.1,0,2
+Ella Durand_ Brown,F,32,Run,6,8.40E+09,227,20.2,0,2
+Tjasa Summers,F,38,Control,6,9.00E+09,229,21.5,0,2
+Karin Simon,F,30,Control,6,6.90E+09,206,20.2,0,2
+Sarah McCarthy,F,37,Control,6,7.20E+09,272,20.6,0,2
+Misaki Lopez,F,23,Control,6,6.70E+09,269,20.8,0,1
+Ella Durand_ black,F,32,Control,6,7.60E+09,190,19.4,0,2
+Amanda Durand,F,22,Run,7,5.10E+09,191,22.1,0,1
+Ami Carrasco,F,37,Run,7,6.00E+09,230,22.3,0,2
+Asuka Carrasco,F,32,Run,7,8.50E+09,211,17.1,0,2
+Asuka Durand,F,22,Run,7,8.60E+09,215,16.4,0,1
+Daniela Carrasco,F,27,Run,7,6.90E+09,184,18.4,0,1
+Emily Steiner,F,26,Run,7,7.40E+09,156,18,0,1
+Erin Durand,F,30,Run,7,5.80E+09,227,20,0,2
+Holly Carrasco,F,27,Run,7,9.00E+09,229,17.9,0,1
+Laura Takahashi,F,26,Run,7,8.70E+09,203,22.2,0,1
+Mai Durand,F,21,Run,7,7.40E+09,257,21.3,0,1
+Mayu McCarthy,F,35,Run,7,7.70E+09,235,14.3,0,2
+Monserrat Carrasco,F,26,Run,7,6.90E+09,213,16,0,1
+Paz Takahashi,F,36,Run,7,9.50E+09,302,18.4,0,2
+Tia Castro,F,26,Run,7,6.10E+09,180,17.2,0,1
+Viktoria Summers,F,35,Run,7,8.80E+09,185,18.1,0,2
+Ella Durand_ Brown,F,32,Run,7,8.00E+09,226,20.1,0,2
+Tjasa Summers,F,38,Control,7,8.10E+09,230,21.5,0,2
+Karin Simon,F,30,Control,7,7.00E+09,208,20.2,0,2
+Sarah McCarthy,F,37,Control,7,7.70E+09,274,20.9,0,2
+Misaki Lopez,F,23,Control,7,5.80E+09,258,21.2,0,1
+Ella Durand_ black,F,32,Control,7,7.70E+09,194,18.4,0,2
+Amanda Durand,F,22,Run,8,5.60E+09,189,22,0,1
+Ami Carrasco,F,37,Run,8,6.50E+09,222,22,0,2
+Asuka Carrasco,F,32,Run,8,8.70E+09,211,17.7,0,2
+Asuka Durand,F,22,Run,8,8.80E+09,215,17.5,0,1
+Daniela Carrasco,F,27,Run,8,7.00E+09,186,19.3,0,1
+Emily Steiner,F,26,Run,8,7.20E+09,142,17.5,0,1
+Erin Durand,F,30,Run,8,5.30E+09,236,20.1,0,2
+Holly Carrasco,F,27,Run,8,8.50E+09,222,18.2,0,1
+Laura Takahashi,F,26,Run,8,8.90E+09,204,20.7,0,1
+Mai Durand,F,21,Run,8,8.10E+09,259,20.4,0,1
+Mayu McCarthy,F,35,Run,8,7.30E+09,232,14.2,0,2
+Monserrat Carrasco,F,26,Run,8,7.20E+09,208,15.8,0,1
+Paz Takahashi,F,36,Run,8,9.60E+09,300,18.7,0,2
+Tia Castro,F,26,Run,8,6.10E+09,186,17.6,0,1
+Viktoria Summers,F,35,Run,8,7.80E+09,188,18.6,0,2
+Ella Durand_ Brown,F,32,Run,8,8.40E+09,222,20.6,0,2
+Tjasa Summers,F,38,Control,8,8.80E+09,223,21.1,0,2
+Karin Simon,F,30,Control,8,6.60E+09,206,19.9,0,2
+Sarah McCarthy,F,37,Control,8,7.40E+09,273,22.2,0,2
+Misaki Lopez,F,23,Control,8,6.50E+09,261,21.2,0,1
+Ella Durand_ black,F,32,Control,8,7.70E+09,194,18.4,0,2
+Annabelle Gonzalez,F,28,Control,7,8.00E+09,229,17.5,0,1
+Chloe Durand,F,33,Control,7,9.70E+09,240,19.8,0,2
+Haruka Lopez,F,32,Control,7,9.30E+09,229,17.5,0,2
+Laurence Gonzalez,F,31,Control,7,7.70E+09,229,NA,1,2
+Manami Gonzalez,F,29,Control,7,7.80E+09,247,19.5,0,1
+Mayu Durand,F,30,Control,7,5.00E+09,226,18.8,0,2
+Megane Steiner,F,32,Control,7,6.80E+09,207,23.3,0,2
+Mitsuki Lopez,F,28,Control,7,8.20E+09,229,19.4,0,1
+Nanako Durand,F,27,Control,7,7.10E+09,210,19.7,0,1
+Paz Lopez,F,27,Control,7,7.60E+09,273,21.6,0,1
+Tine Summers,F,39,Control,7,8.60E+09,210,17.6,0,2
+Abby Durand,F,36,Dog,7,8.00E+09,243,15.2,0,2
+Ciara Kennedy,F,22,Dog,7,5.80E+09,185,17.9,0,1
+Daiki Gonzalez,F,28,Dog,7,6.50E+09,229,21,0,1
+Emma Durand,F,39,Dog,7,6.20E+09,239,15.6,0,2
+Grace Carrasco,F,26,Dog,7,7.30E+09,238,NA,1,1
+Haruka McCarthy,F,29,Dog,7,7.30E+09,204,19.9,0,1
+Hina Rodriguez,F,28,Dog,7,9.40E+09,205,20.7,0,1
+Julia Lopez,F,32,Dog,7,8.60E+09,238,21.6,0,2
+Klara Carrasco,F,26,Dog,7,7.50E+09,227,23,0,1
+Mizuki Durand,F,23,Dog,7,7.00E+09,202,21.1,0,1
+Rosalie Steiner,F,32,Dog,7,4.80E+09,198,24.9,0,2
+Sophia Durand,F,25,Dog,7,8.30E+09,260,21.5,0,1
+Chelsea Durand,F,24,Dog,7,6.30E+09,260,20.7,0,1
+Rosalie Novak,F,37,Dog,7,7.80E+09,219,22.4,0,2
+Ciara Lopez,F,35,Dog,7,8.50E+09,235,20.5,0,2
+Rina Durand,F,23,Dog,7,6.90E+09,217,22.6,0,1
+Abigail Carrasco,F,25,Memory,7,6.50E+09,223,19.9,0,1
+Sakura Kennedy,F,21,Memory,7,8.50E+09,238,18,0,1
+Selina Kennedy,F,29,Memory,7,6.40E+09,254,20.3,0,1
+Genesis Kennedy,F,23,Memory,7,6.90E+09,256,19.2,0,1
+Kana Durand,F,32,Memory,7,7.00E+09,235,22.8,0,2
+Momoko Carrasco,F,31,Memory,7,7.70E+09,269,16.7,0,2
+Josefa Durand,F,20,Memory,7,8.40E+09,234,20.2,0,1
+Hannah Durand,F,39,Memory,7,6.90E+09,239,17.6,0,2
+Allana Carrasco,F,36,Memory,7,8.50E+09,217,19,0,2
+Chloe Simon,F,30,Memory,7,7.70E+09,179,21.8,0,2
+Natalia Durand,F,26,Memory,7,4.90E+09,198,20.8,0,1
+Reina Durand,F,24,Memory,7,9.70E+09,253,20.9,0,1
+Sakura Durand,F,36,Memory,7,8.30E+09,249,17.8,0,2
+Nina Takahashi,F,22,Memory,7,6.10E+09,191,20.9,0,1
+Ai Carrasco,F,33,Memory,7,8.00E+09,190,19.6,0,2
+Manami Carrasco,F,22,Memory,7,8.10E+09,205,19.3,0,1
+1,M,25,Control,4,7.90E+09,203,18.3,0,1
+1,M,25,Control,5,7.90E+09,198,18.1,0,1
+1,M,25,Control,6,8.20E+09,197,18.2,0,1
+2,M,25,Control,4,6.90E+09,218,18.8,0,1
+2,M,25,Control,5,7.10E+09,209,18.6,0,1
+2,M,25,Control,6,7.00E+09,216,18.4,0,1
+3,M,24,Control,4,8.80E+09,222,15.7,0,1
+3,M,24,Control,5,8.60E+09,217,16.1,0,1
+3,M,24,Control,6,8.70E+09,222,16.1,0,1
+4,M,32,Control,4,9.50E+09,205,21.3,0,2
+4,M,32,Control,5,9.40E+09,214,20.5,0,2
+4,M,32,Control,6,9.60E+09,204,20.9,0,2
+5,M,22,Control,4,6.10E+09,185,22.5,0,1
+5,M,22,Control,5,6.90E+09,190,22.1,0,1
+5,M,22,Control,6,6.50E+09,191,23.4,0,1
+6,M,32,Control,4,6.60E+09,203,20,0,2
+6,M,32,Control,5,7.50E+09,206,20.9,0,2
+6,M,32,Control,6,7.30E+09,203,20.5,0,2
+7,M,33,Control,4,9.20E+09,147,21.8,0,2
+7,M,33,Control,5,9.20E+09,156,21.9,0,2
+7,M,33,Control,6,9.40E+09,156,22.5,0,2
+8,M,39,Control,4,8.50E+09,237,16.3,0,2
+8,M,39,Control,5,8.50E+09,235,16.4,0,2
+8,M,39,Control,6,8.20E+09,237,16.8,0,2
+9,M,32,Control,4,7.10E+09,203,21.2,0,2
+9,M,32,Control,5,6.80E+09,207,20.9,0,2
+9,M,32,Control,6,6.50E+09,207,20.2,0,2
+10,M,21,Control,4,6.70E+09,229,18.7,0,1
+10,M,21,Control,5,7.00E+09,228,18.8,0,1
+10,M,21,Control,6,6.70E+09,214,18.8,0,1
+11,M,29,Control,4,6.00E+09,157,15.5,0,1
+11,M,29,Control,5,5.70E+09,159,15.2,0,1
+11,M,29,Control,6,6.30E+09,168,14.8,0,1
+12,M,20,Control,4,7.10E+09,211,19.3,0,1
+12,M,20,Control,5,7.50E+09,205,19,0,1
+12,M,20,Control,6,7.30E+09,193,19,0,1
+13,M,24,Control,4,4.40E+09,225,21.7,0,1
+13,M,24,Control,5,4.60E+09,222,20.9,0,1
+13,M,24,Control,6,4.80E+09,232,21.9,0,1
+14,M,23,Control,4,6.40E+09,194,19.9,0,1
+14,M,23,Control,5,5.50E+09,198,20.2,0,1
+14,M,23,Control,6,5.60E+09,190,20.6,0,1
+15,M,26,Control,4,6.70E+09,178,15.9,0,1
+15,M,26,Control,5,6.10E+09,179,15.8,0,1
+15,M,26,Control,6,6.50E+09,170,15.5,0,1
+16,M,27,Control,4,8.40E+09,193,16.4,0,1
+16,M,27,Control,5,7.90E+09,192,16.2,0,1
+16,M,27,Control,6,8.30E+09,187,16.2,0,1
+17,M,33,Run,4,6.50E+09,222,20.3,0,2
+17,M,33,Run,5,6.50E+09,231,20.5,0,2
+17,M,33,Run,6,6.80E+09,228,19.8,0,2
+18,M,32,Run,4,8.10E+09,179,17.7,0,2
+18,M,32,Run,5,7.60E+09,179,18.2,0,2
+18,M,32,Run,6,8.00E+09,173,17.4,0,2
+19,M,33,Run,4,6.00E+09,186,16.6,0,2
+19,M,33,Run,5,5.70E+09,191,17.5,0,2
+19,M,33,Run,6,6.10E+09,197,17,0,2
+20,M,29,Run,4,8.90E+09,163,19.1,0,1
+20,M,29,Run,5,9.20E+09,176,19.4,0,1
+20,M,29,Run,6,8.80E+09,166,18.5,0,1
+21,M,38,Run,4,5.00E+09,247,16.6,0,2
+21,M,38,Run,5,5.40E+09,245,16.9,0,2
+21,M,38,Run,6,5.20E+09,248,16.5,0,2
+22,M,23,Run,4,NA,225,17.6,0,1
+22,M,23,Run,5,6.40E+09,237,18.1,0,1
+22,M,23,Run,6,6.50E+09,241,17.8,0,1
+23,M,28,Run,4,8.80E+09,182,16.9,0,1
+23,M,28,Run,5,8.20E+09,197,17.4,0,1
+23,M,28,Run,6,8.80E+09,183,17,0,1
+24,M,21,Run,4,6.50E+09,206,18.1,0,1
+24,M,21,Run,5,6.20E+09,224,19.1,0,1
+24,M,21,Run,6,6.70E+09,214,18.7,0,1
+25,M,31,Run,4,7.10E+09,237,17.3,0,2
+25,M,31,Run,5,7.60E+09,246,17.7,0,2
+25,M,31,Run,6,6.80E+09,238,18.1,0,2
+26,M,33,Run,4,3.30E+09,184,18.2,0,2
+26,M,33,Run,5,3.30E+09,190,18.6,0,2
+26,M,33,Run,6,3.40E+09,184,18,0,2
+27,M,31,Run,4,7.50E+09,182,16.1,0,2
+27,M,31,Run,5,7.40E+09,200,16.6,0,2
+27,M,31,Run,6,7.70E+09,183,16,0,2
+28,M,27,Run,4,7.70E+09,191,19.2,0,1
+28,M,27,Run,5,7.10E+09,213,18.7,0,1
+28,M,27,Run,6,7.90E+09,201,19.1,0,1
+29,M,36,Run,4,9.50E+09,188,22.7,0,2
+29,M,36,Run,5,9.50E+09,189,23,0,2
+29,M,36,Run,6,9.90E+09,183,22.7,0,2
+30,M,38,Run,4,8.80E+09,200,19,0,2
+30,M,38,Run,5,8.60E+09,196,18.8,0,2
+30,M,38,Run,6,8.40E+09,197,18.7,0,2
+31,M,23,Run,4,7.80E+09,208,19,0,1
+31,M,23,Run,5,7.40E+09,229,18.9,0,1
+31,M,23,Run,6,7.20E+09,209,19.2,0,1
+32,M,36,Memory,4,8.00E+09,220,22.5,0,2
+32,M,36,Memory,5,8.20E+09,210,21.8,0,2
+32,M,36,Memory,6,8.20E+09,207,21.5,0,2
+33,M,25,Memory,4,7.00E+09,193,17.3,0,1
+33,M,25,Memory,5,7.00E+09,197,17.2,0,1
+33,M,25,Memory,6,7.20E+09,184,16.6,0,1
+34,M,38,Memory,4,7.00E+09,163,18.5,0,2
+34,M,38,Memory,5,6.60E+09,167,NA,1,2
+34,M,38,Memory,6,7.40E+09,172,NA,1,2
+35,M,20,Memory,4,6.30E+09,178,22.8,0,1
+35,M,20,Memory,5,6.00E+09,184,21.7,0,1
+35,M,20,Memory,6,6.20E+09,189,21.4,0,1
+36,M,31,Memory,4,7.80E+09,199,19.5,0,2
+36,M,31,Memory,5,7.20E+09,205,20.1,0,2
+36,M,31,Memory,6,8.00E+09,201,20.5,0,2
+37,M,33,Memory,4,8.30E+09,207,23.9,0,2
+37,M,33,Memory,5,8.20E+09,203,NA,1,2
+37,M,33,Memory,6,8.20E+09,207,23.9,0,2
+38,M,32,Memory,4,6.90E+09,190,18.5,0,2
+38,M,32,Memory,5,7.10E+09,190,18.5,0,2
+38,M,32,Memory,6,NA,193,18.6,0,2
+39,M,31,Memory,4,5.40E+09,250,19.8,0,2
+39,M,31,Memory,5,5.70E+09,247,19.8,0,2
+39,M,31,Memory,6,5.60E+09,248,19.5,0,2
+40,M,25,Memory,4,7.30E+09,217,23.4,0,1
+40,M,25,Memory,5,7.70E+09,214,23.6,0,1
+40,M,25,Memory,6,8.10E+09,212,23.6,0,1
+41,M,30,Memory,4,8.60E+09,209,23.1,0,2
+41,M,30,Memory,5,8.60E+09,204,23.6,0,2
+41,M,30,Memory,6,9.10E+09,203,23.1,0,2
+42,M,39,Memory,4,7.60E+09,179,23,0,2
+42,M,39,Memory,5,7.60E+09,188,NA,1,2
+42,M,39,Memory,6,7.50E+09,195,23.4,0,2
+43,M,25,Memory,4,7.40E+09,223,20.4,0,1
+43,M,25,Memory,5,7.60E+09,224,20.7,0,1
+43,M,25,Memory,6,7.30E+09,229,21.1,0,1
+44,M,39,Memory,4,8.80E+09,262,20.7,0,2
+44,M,39,Memory,5,8.90E+09,262,19.9,0,2
+44,M,39,Memory,6,8.70E+09,260,20.7,0,2
+45,M,29,Memory,4,8.80E+09,184,18.7,0,1
+45,M,29,Memory,5,8.60E+09,173,18.2,0,1
+45,M,29,Memory,6,8.10E+09,172,18.3,0,1
+46,M,38,Memory,4,6.60E+09,188,21.5,0,2
+46,M,38,Memory,5,6.30E+09,190,21.6,0,2
+46,M,38,Memory,6,NA,189,21.6,0,2
+47,M,31,Memory,4,9.20E+09,195,18.5,0,2
+47,M,31,Memory,5,9.00E+09,203,18.1,0,2
+47,M,31,Memory,6,8.40E+09,197,17.8,0,2
+48,M,22,Dog,4,7.60E+09,193,17.4,0,1
+48,M,22,Dog,5,8.20E+09,202,16.9,0,1
+48,M,22,Dog,6,8.40E+09,188,16.7,0,1
+49,M,39,Dog,4,8.30E+09,200,19.4,0,2
+49,M,39,Dog,5,7.80E+09,199,19.1,0,2
+49,M,39,Dog,6,8.40E+09,201,18.1,0,2
+50,M,20,Dog,4,6.20E+09,214,20.9,0,1
+50,M,20,Dog,5,6.10E+09,214,20.4,0,1
+50,M,20,Dog,6,5.40E+09,216,20.4,0,1
+51,M,22,Dog,4,7.30E+09,206,20.1,0,1
+51,M,22,Dog,5,7.70E+09,207,20.1,0,1
+51,M,22,Dog,6,7.90E+09,192,20.6,0,1
+52,M,32,Dog,4,7.80E+09,216,17.5,0,2
+52,M,32,Dog,5,7.30E+09,208,17.6,0,2
+52,M,32,Dog,6,7.80E+09,208,NA,1,2
+53,M,36,Dog,4,7.60E+09,218,19,0,2
+53,M,36,Dog,5,6.90E+09,219,17.9,0,2
+53,M,36,Dog,6,7.00E+09,215,18.8,0,2
+54,M,22,Dog,4,8.20E+09,197,18.4,0,1
+54,M,22,Dog,5,8.70E+09,184,18.8,0,1
+54,M,22,Dog,6,7.60E+09,179,18.7,0,1
+55,M,35,Dog,4,6.30E+09,222,22,0,2
+55,M,35,Dog,5,5.90E+09,220,22.5,0,2
+55,M,35,Dog,6,6.10E+09,224,22,0,2
+56,M,29,Dog,4,5.70E+09,242,17.6,0,1
+56,M,29,Dog,5,5.90E+09,242,17,0,1
+56,M,29,Dog,6,6.10E+09,233,17.3,0,1
+57,M,39,Dog,4,8.00E+09,169,22.4,0,2
+57,M,39,Dog,5,7.60E+09,166,22.3,0,2
+57,M,39,Dog,6,7.50E+09,167,21.6,0,2
+58,M,32,Dog,4,5.80E+09,180,17.6,0,2
+58,M,32,Dog,5,5.90E+09,174,17.9,0,2
+58,M,32,Dog,6,5.80E+09,180,NA,1,2
+59,M,30,Dog,4,7.80E+09,202,18.6,0,2
+59,M,30,Dog,5,7.40E+09,192,18.9,0,2
+59,M,30,Dog,6,NA,191,NA,1,2
+60,M,36,Dog,4,7.10E+09,232,17.6,0,2
+60,M,36,Dog,5,6.80E+09,244,18.1,0,2
+60,M,36,Dog,6,6.60E+09,234,NA,1,2
+61,M,21,Dog,4,8.10E+09,222,19.5,0,1
+61,M,21,Dog,5,8.20E+09,229,19.9,0,1
+61,M,21,Dog,6,NA,217,18.6,0,1
+1,M,25,Control,7,7.40E+09,190,18,0,1
+2,M,25,Control,7,6.80E+09,206,18.7,0,1
+3,M,24,Control,7,8.10E+09,220,15.6,0,1
+4,M,32,Control,7,9.50E+09,219,20.2,0,2
+5,M,22,Control,7,6.00E+09,176,22.6,0,1
+6,M,32,Control,7,6.60E+09,194,21,0,2
+7,M,33,Control,7,9.20E+09,158,22.5,0,2
+8,M,39,Control,7,8.40E+09,241,16.4,0,2
+9,M,32,Control,7,7.20E+09,200,20.2,0,2
+10,M,21,Control,7,6.90E+09,221,18.9,0,1
+11,M,29,Control,7,6.20E+09,168,14.7,0,1
+12,M,20,Control,7,6.40E+09,205,19.6,0,1
+13,M,24,Control,7,4.40E+09,217,21.6,0,1
+14,M,23,Control,7,5.40E+09,192,20.2,0,1
+15,M,26,Control,7,6.30E+09,176,16.3,0,1
+16,M,27,Control,7,8.00E+09,195,16.3,0,1
+17,M,33,Run,7,6.10E+09,221,19.9,0,2
+18,M,32,Run,7,8.40E+09,186,18.3,0,2
+19,M,33,Run,7,6.00E+09,185,17.1,0,2
+20,M,29,Run,7,8.50E+09,170,18.7,0,1
+21,M,38,Run,7,5.20E+09,241,16.8,0,2
+22,M,23,Run,7,6.30E+09,229,18.2,0,1
+23,M,28,Run,7,9.00E+09,177,18.5,0,1
+24,M,21,Run,7,6.10E+09,216,19.2,0,1
+25,M,31,Run,7,7.30E+09,227,18,0,2
+26,M,33,Run,7,3.10E+09,185,18.6,0,2
+27,M,31,Run,7,6.90E+09,192,16.5,0,2
+28,M,27,Run,7,7.30E+09,194,19.2,0,1
+29,M,36,Run,7,9.60E+09,185,22.1,0,2
+30,M,38,Run,7,8.20E+09,185,18.8,0,2
+31,M,23,Run,7,7.60E+09,209,19.2,0,1
+32,M,36,Memory,7,8.60E+09,222,22,0,2
+33,M,25,Memory,7,6.90E+09,184,16.4,0,1
+34,M,38,Memory,7,6.60E+09,171,18.1,0,2
+35,M,20,Memory,7,6.30E+09,178,21.8,0,1
+36,M,31,Memory,7,8.00E+09,193,20.2,0,2
+37,M,33,Memory,7,7.90E+09,207,23.6,0,2
+38,M,32,Memory,7,7.10E+09,185,19.1,0,2
+39,M,31,Memory,7,5.70E+09,253,19.5,0,2
+40,M,25,Memory,7,7.60E+09,213,24,0,1
+41,M,30,Memory,7,8.50E+09,206,22.6,0,2
+42,M,39,Memory,7,8.00E+09,190,23.1,0,2
+43,M,25,Memory,7,7.40E+09,229,19.9,0,1
+44,M,39,Memory,7,8.70E+09,263,20,0,2
+45,M,29,Memory,7,8.20E+09,166,18.5,0,1
+46,M,38,Memory,7,9.10E+09,202,19,0,2
+47,M,31,Memory,7,7.10E+09,172,23,0,2
+48,M,22,Dog,7,8.80E+09,188,17.8,0,1
+49,M,39,Dog,7,7.70E+09,207,18.9,0,2
+50,M,20,Dog,7,5.20E+09,215,20.5,0,1
+51,M,22,Dog,7,7.50E+09,196,20.7,0,1
+52,M,32,Dog,7,7.60E+09,215,16.8,0,2
+53,M,36,Dog,7,7.30E+09,215,18.6,0,2
+54,M,22,Dog,7,7.90E+09,195,18.8,0,1
+55,M,35,Dog,7,6.00E+09,221,21.9,0,2
+56,M,29,Dog,7,5.60E+09,237,17.7,0,1
+57,M,39,Dog,7,7.30E+09,173,21.8,0,2
+58,M,32,Dog,7,5.40E+09,183,19.1,0,2
+59,M,30,Dog,7,7.80E+09,199,19.2,0,2
+60,M,36,Dog,7,7.00E+09,227,17.7,0,2
+61,M,21,Dog,7,8.40E+09,228,18.6,0,1
+Annabelle Gonzalez,F,28,Control,8,8.50E+09,233,17,0,1
+Chloe Durand,F,33,Control,8,9.70E+09,244,21,0,2
+Haruka Lopez,F,32,Control,8,9.60E+09,232,17.7,0,2
+Laurence Gonzalez,F,31,Control,8,7.50E+09,231,17.7,0,2
+Manami Gonzalez,F,29,Control,8,7.90E+09,249,19.7,0,1
+Mayu Durand,F,30,Control,8,5.50E+09,235,18.8,0,2
+Megane Steiner,F,32,Control,8,7.10E+09,204,23.7,0,2
+Mitsuki Lopez,F,28,Control,8,8.60E+09,229,19.4,0,1
+Nanako Durand,F,27,Control,8,6.80E+09,219,20,0,1
+Paz Lopez,F,27,Control,8,7.40E+09,262,21.7,0,1
+Tine Summers,F,39,Control,8,8.10E+09,224,17.3,0,2
+Abby Durand,F,36,Dog,8,8.40E+09,245,15.6,0,2
+Ciara Kennedy,F,22,Dog,8,5.60E+09,178,18.3,0,1
+Daiki Gonzalez,F,28,Dog,8,6.80E+09,234,21,0,1
+Emma Durand,F,39,Dog,8,5.90E+09,245,15.9,0,2
+Grace Carrasco,F,26,Dog,8,7.40E+09,229,18.6,0,1
+Haruka McCarthy,F,29,Dog,8,7.10E+09,213,20.6,0,1
+Hina Rodriguez,F,28,Dog,8,9.60E+09,212,21.4,0,1
+Julia Lopez,F,32,Dog,8,8.30E+09,244,22.5,0,2
+Klara Carrasco,F,26,Dog,8,7.00E+09,238,23.4,0,1
+Mizuki Durand,F,23,Dog,8,7.40E+09,202,21.3,0,1
+Rosalie Steiner,F,32,Dog,8,5.40E+09,185,26,0,2
+Sophia Durand,F,25,Dog,8,8.80E+09,254,21.3,0,1
+Chelsea Durand,F,24,Dog,8,5.80E+09,263,21,0,1
+Rosalie Novak,F,37,Dog,8,7.80E+09,218,22.7,0,2
+Ciara Lopez,F,35,Dog,8,8.50E+09,222,21,0,2
+Rina Durand,F,23,Dog,8,6.40E+09,224,22.4,0,1
+Abigail Carrasco,F,25,Memory,8,6.30E+09,219,20.2,0,1
+Sakura Kennedy,F,21,Memory,8,8.00E+09,235,17.6,0,1
+Selina Kennedy,F,29,Memory,8,6.90E+09,252,19.2,0,1
+Genesis Kennedy,F,23,Memory,8,6.80E+09,247,18.9,0,1
+Kana Durand,F,32,Memory,8,7.50E+09,234,22.8,0,2
+Momoko Carrasco,F,31,Memory,8,8.30E+09,257,17.1,0,2
+Josefa Durand,F,20,Memory,8,8.00E+09,244,21.2,0,1
+Hannah Durand,F,39,Memory,8,6.80E+09,232,18.3,0,2
+Allana Carrasco,F,36,Memory,8,8.60E+09,215,18,0,2
+Chloe Simon,F,30,Memory,8,8.20E+09,176,21.5,0,2
+Natalia Durand,F,26,Memory,8,4.90E+09,192,20.4,0,1
+Reina Durand,F,24,Memory,8,1.00E+10,254,21.5,0,1
+Sakura Durand,F,36,Memory,8,8.30E+09,247,18.3,0,2
+Nina Takahashi,F,22,Memory,8,5.70E+09,205,20.5,0,1
+Ai Carrasco,F,33,Memory,8,8.00E+09,203,19.4,0,2
+Manami Carrasco,F,22,Memory,8,7.80E+09,201,20.2,0,1
+1,M,25,Control,8,8.4,201,18.1,0,1
+2,M,25,Control,8,7.60E+09,213,18.6,0,1
+3,M,24,Control,8,8.80E+09,232,16.3,0,1
+4,M,32,Control,8,9.30E+09,206,19.9,0,2
+5,M,22,Control,8,6.00E+09,184,22.7,0,1
+6,M,32,Control,8,7.40E+09,205,20.6,0,2
+7,M,33,Control,8,9.10E+09,153,22.7,0,2
+8,M,39,Control,8,7.90E+09,235,16.3,0,2
+9,M,32,Control,8,6.90E+09,194,20.5,0,2
+10,M,21,Control,8,6.70E+09,210,19,0,1
+11,M,29,Control,8,6.70E+09,159,15.6,0,1
+12,M,20,Control,8,6.90E+09,202,20.1,0,1
+13,M,24,Control,8,4.40E+09,231,21.4,0,1
+14,M,23,Control,8,5.70E+09,191,20.3,0,1
+15,M,26,Control,8,6.70E+09,171,15.9,0,1
+16,M,27,Control,8,8.70E+09,190,16.7,0,1
+17,M,33,Run,8,7.00E+09,248,19.7,0,2
+18,M,32,Run,8,8.30E+09,187,18.2,0,2
+19,M,33,Run,8,5.80E+09,214,17.3,0,2
+20,M,29,Run,8,9.00E+09,179,18.2,0,1
+21,M,38,Run,8,5.10E+09,267,16.5,0,2
+22,M,23,Run,8,6.30E+09,257,18.3,0,1
+23,M,28,Run,8,8.50E+09,211,16.8,0,1
+24,M,21,Run,8,6.20E+09,229,19.2,0,1
+25,M,31,Run,8,7.00E+09,254,17.6,0,2
+26,M,33,Run,8,2.90E+09,196,18.5,0,2
+27,M,31,Run,8,7.70E+09,198,16.1,0,2
+28,M,27,Run,8,7.90E+09,213,19.2,0,1
+29,M,36,Run,8,9.70E+09,202,23.1,0,2
+30,M,38,Run,8,8.30E+09,204,19.2,0,2
+31,M,23,Run,8,7.50E+09,233,18.3,0,1
+32,M,36,Memory,8,8.70E+09,222,16.4,0,2
+33,M,25,Memory,8,6.90E+09,184,18.1,0,1
+34,M,38,Memory,8,6.50E+09,176,18.5,0,2
+35,M,20,Memory,8,6.30E+09,187,21.6,0,1
+36,M,31,Memory,8,7.60E+09,191,20,0,2
+37,M,33,Memory,8,7.80E+09,209,23.2,0,2
+38,M,32,Memory,8,7.30E+09,198,18.4,0,2
+39,M,31,Memory,8,6.00E+09,254,19.6,0,2
+40,M,25,Memory,8,7.70E+09,210,23,0,1
+41,M,30,Memory,8,8.90E+09,203,22.8,0,2
+42,M,39,Memory,8,7.90E+09,190,23.4,0,2
+43,M,25,Memory,8,7.70E+09,227,20.4,0,1
+44,M,39,Memory,8,8.70E+09,273,20.4,0,2
+45,M,29,Memory,8,8.70E+09,175,18.5,0,1
+46,M,38,Memory,8,9.40E+09,193,17.8,0,2
+47,M,31,Memory,8,7.20E+09,172,23,0,2
+48,M,22,Dog,8,8.40E+09,200,17.5,0,1
+49,M,39,Dog,8,8.10E+09,209,18.9,0,2
+50,M,20,Dog,8,5.60E+09,212,20.2,0,1
+51,M,22,Dog,8,7.50E+09,196,20,0,1
+52,M,32,Dog,8,6.60E+09,203,16.8,0,2
+53,M,36,Dog,8,7.20E+09,214,19.2,0,2
+54,M,22,Dog,8,7.70E+09,187,18.3,0,1
+55,M,35,Dog,8,5.80E+09,221,22.6,0,2
+56,M,29,Dog,8,5.90E+09,233,17.2,0,1
+57,M,39,Dog,8,7.90E+09,169,21.7,0,2
+58,M,32,Dog,8,5.30E+09,182,18.3,0,2
+59,M,30,Dog,8,7.20E+09,198,19.5,0,2
+60,M,36,Dog,8,6.90E+09,235,17.6,0,2
+61,M,21,Dog,8,7.90E+09,219,19,0,1
